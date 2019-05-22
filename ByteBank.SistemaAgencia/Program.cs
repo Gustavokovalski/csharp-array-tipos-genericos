@@ -12,9 +12,34 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            //ListaDeCliente();
-            Console.WriteLine(SomarVarios(1, 3, 3, 5, 6043, 543434));
-            Console.WriteLine(SomarVarios(1, 3));
+            Lista<int> idades = new Lista<int>();
+
+            idades.Adicionar(5);
+            idades.AdicionarVarios(1, 2, 45, 20432);
+
+            Console.WriteLine(SomarVarios(1, 2, 3, 5, 43343434));
+
+            Console.WriteLine(SomarVarios(1, 2));
+
+            Console.ReadLine();
+        }
+
+        static void TestaListaDeObject()
+        {
+            ListaDeObject listaDeIdades = new ListaDeObject();
+
+            listaDeIdades.Adicionar(5);
+            listaDeIdades.Adicionar(4);
+            listaDeIdades.Adicionar(10);
+            listaDeIdades.Adicionar(35);
+            listaDeIdades.Adicionar(9);
+
+            for (int i = 0; i < listaDeIdades.Tamanho; i++)
+            {
+                int idade = (int)listaDeIdades[i];
+                Console.WriteLine($"Idade no indice {i}: {idade}");
+            }
+
 
 
 
