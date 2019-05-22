@@ -14,6 +14,7 @@ namespace ByteBank.SistemaAgencia
         {
             ListaDeContaCorrente lista = new ListaDeContaCorrente();
 
+            ContaCorrente contaDoGustavo = new ContaCorrente(355, 999034);
             lista.Adicionar(new ContaCorrente(874, 5677654));
             lista.Adicionar(new ContaCorrente(874, 5767643));
             lista.Adicionar(new ContaCorrente(874, 5844675));
@@ -32,6 +33,10 @@ namespace ByteBank.SistemaAgencia
             lista.Adicionar(new ContaCorrente(874, 5677654));
             lista.Adicionar(new ContaCorrente(874, 5767643));
             lista.Adicionar(new ContaCorrente(874, 5844675));
+
+            lista.EscreverListaNaTela();
+            lista.Remover(contaDoGustavo);
+            Console.WriteLine("Apos remover o item");
 
             Console.ReadLine();
         }

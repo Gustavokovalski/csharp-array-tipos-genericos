@@ -9,3 +9,14 @@ C:\Users\gsaporiti\Desktop\git\csharp-array-tipos-genericos\csharp-array-tipos-g
 C:\Users\gsaporiti\Desktop\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
 C:\Users\gsaporiti\Desktop\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
 C:\Users\gsaporiti\Desktop\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+\\tcprofiles\usersprofiles$\tc824771\Documents\git\csharp-array-tipos-genericos\csharp-array-tipos-genericos\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
